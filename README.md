@@ -84,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This bot is meant to handle all the tasks related to a simracing discord community. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,14 +92,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [python x.xx](https://python.org/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -142,7 +136,15 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+-pending: verify which users have not reacted to a message
+-onboarding
+-available
+-pilot number selection
+-race director
+-parcferme
+-bot status
+-prerace message 
+
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -153,9 +155,21 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
+- [ ] Pending
+    - [ ] Embbed
+    - [ ] Reactions
+    - [ ] DM
+    - [ ] Multiple Roles
+    - [ ] Export
+- [ ] Onboarding
+    - [ ] Create Channel
+    - [ ] Welcome Message
+    - [ ] Role Confirmation
+- [ ] Pilot Number Selection
+- [ ] Race Director
+- [ ] Parc Ferme
+- [ ] Bot Status
+- [ ] Pre Race Message
     - [ ] Nested Feature
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
@@ -194,20 +208,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+GP Esports RD - [@gpesportsrd](https://instagram.com/gpesportsrd) - dev@gpesportsrd.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+Project Link: [https://github.com/amirandap/universal-simracing/](https://github.com/amirandap/universal-simracing/)
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
