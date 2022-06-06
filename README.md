@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/amirandap/universal-simracing">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,7 +38,7 @@
   <p align="center">
     Discord bot designed to manage most aspects of a simracing community.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/amirandap/universal-simracing"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/amirandap/universal-simracing">View Demo</a>
@@ -73,7 +73,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -82,9 +81,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This bot is meant to handle all the tasks related to a simracing discord community. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This bot is meant to handle all the tasks related to a simracing discord community. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
