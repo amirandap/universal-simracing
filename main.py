@@ -46,6 +46,14 @@ async def on_ready():
     embed.add_field(name="IP", value=ip, inline=True)
     await channel.send(embed=embed)
 
+@bot.event
+async def on_member_join(member):
+    print(f'{member} has joined the server')
+    print(member.guild.name)
+    channel = discord.utils.get(member.guild.channels, id = config.template)
+    member_channel = await channel.clone(name = member.name, reason = 'None')
+    await member_channel.set_permissions(member, read_messages = True, send_messages = True)
+    await member_channel.send(f'Welcome <@{member.id}> to {member.guild.name}')
 
    
 @bot.slash_command(pass_context=True)
@@ -249,4 +257,4 @@ async def setup(ctx):
     await ctx.send(embed = embed)
 
 
-bot.run('OTc1MTY4OTI3MjQyMDI3MDI4.GMtFdh.lOCA7Oq_YAZdVwwnYfpIQt8-6KFiQMNei1OquQ')
+bot.run(config.token)
