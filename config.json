@@ -1,1 +1,8 @@
-{"backend_channel": "<#699619166533189823>", "newuser_role": "<@&978083661771583528>", "mod_role": "<@&975161114604236881>", "welcome_message": "Welcome to gpesports please choose your role in <#978082783152979968>", "step1_roles": "<@&975161882811973703>", "step2_roles": "<@&975161882811973703>"}
+{
+  "backend_channel": "<#699619166533189823>",
+  "newuser_role": "<@&978083661771583528>",
+  "mod_role": "<@&975161114604236881>",
+  "welcome_message": "Welcome to gpesports please choose your role in <#978082783152979968>",
+  "step1_roles": "<@&975161882811973703>",
+  "step2_roles": "<@&975161882811973703>"
+}
